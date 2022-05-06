@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 5em
+}
+
+body {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.formulary-box {
+    padding-bottom: 1em;
+    border: 5px dashed #fff;
+}
+
+.button {
+    display: block;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
